@@ -9,8 +9,7 @@ params = {
     'sortBy': 'publishedAt',
     'language': 'en',
     'apiKey': API_KEY,
-    'pageSize': 20, 
-    'category': 'technology' 
+    'pageSize': 20
 }
 
 def fetch_ai_news():
